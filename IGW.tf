@@ -24,7 +24,7 @@ resource "aws_route_table" "rt" {
     Project     = "VPC_Task"
     Environment = "Test "
     Team        = "DevOps"
-    Created_by  = "Viktoryia Kochkina"
+    Created_by  = "Dilmurod Ikromov"
   }
 }
 resource "aws_route_table_association" "public_subnet_asso1" {
